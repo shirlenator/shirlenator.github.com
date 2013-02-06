@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Shilei (Shirley) Zheng]]></title>
+  <link href="http://shirlenator.github.com/atom.xml" rel="self"/>
+  <link href="http://shirlenator.github.com/"/>
+  <updated>2013-02-06T01:39:11-08:00</updated>
+  <id>http://shirlenator.github.com/</id>
+  <author>
+    <name><![CDATA[Shilei Zheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Mathjax]]></title>
+    <link href="http://shirlenator.github.com/blog/2013/02/06/mathjax/"/>
+    <updated>2013-02-06T00:42:00-08:00</updated>
+    <id>http://shirlenator.github.com/blog/2013/02/06/mathjax</id>
+    <content type="html"><![CDATA[<p>$$ x \to \infty$$</p>]]></content>
+  </entry>
+  
+</feed>
