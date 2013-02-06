@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Mathjax"
+date: 2013-02-06 00:42
+comments: true
+categories: 
+---
+$$ x \to \infty$$
